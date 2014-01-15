@@ -1,0 +1,59 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+j                                                                 01F7h        1
+t_preset                                                          01F8h        7
+t_item                                                            01FFh        5
+dir1                                                              0204h        1
+dir2                                                              0205h        1
+dir_cnt1                                                          0206h        1
+dir_cnt2                                                          0207h        1
+e11                                                               0208h        1
+e12                                                               0209h        1
+e21                                                               020Ah        1
+e22                                                               020Bh        1
+enc1                                                              020Ch        1
+enc2                                                              020Dh        1
+pwm_cnt                                                           020Eh        1
+scan_mode                                                         020Fh        1
+last_mode                                                         0210h        1
+scan_cnt                                                          0211h        1
+scan_speed                                                        0212h        2
+tmp_speed                                                         0214h        2
+out                                                               0216h        1
+out2                                                              0217h        1
+e_preset                                                          0218h        1
+e_item                                                            0219h        1
+e_out                                                             021Ah        1
+e_mode                                                            021Bh        1
+e_patt                                                            021Ch       31
+patt                                                              023Bh       31
+_base_y                                                           025Ah        4
+_lcd_x                                                            025Eh        1
+_lcd_y                                                            025Fh        1
+_lcd_maxx                                                         0260h        1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+val1                                                              R4           1
+val2                                                              R3           1
+val3                                                              R6           1
+val4                                                              R5           1
+val5                                                              R8           1
+current_pattern                                                   R7           1
+block                                                             R9,R10       2
+addr                                                              R11,R12      2
+_e_read                                                           R14          1
+i                                                                 R13          1
+edit_mode                                                         R2.0      1bit
+chorus                                                            R2.1      1bit
+multiplexor                                                       R2.2      1bit
+ch_speed                                                          R2.3      1bit
+ch_on                                                             R2.4      1bit
+e_save                                                            R2.5      1bit
+e_preview                                                         R2.6      1bit

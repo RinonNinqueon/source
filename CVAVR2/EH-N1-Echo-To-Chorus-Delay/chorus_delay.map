@@ -1,0 +1,29 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+dir_cnt                                                           00BDh        1
+v_time                                                            00BEh        5
+_base_y                                                           00C3h        4
+_lcd_x                                                            00C7h        1
+_lcd_y                                                            00C8h        1
+_lcd_maxx                                                         00C9h        1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+time                                                              R3           1
+time_c                                                            R2           1
+lock0                                                             R5           1
+cmd1                                                              R4           1
+i                                                                 R7           1
+val1                                                              R6           1
+val2                                                              R9           1
+val3                                                              R8           1
+val4                                                              R11          1
+e1                                                                R10          1
+e2                                                                R13          1
+dir                                                               R12          1

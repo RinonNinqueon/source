@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"delay.c" LINE:220
+lcd_puts DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"..\..\lib\lcd.lib" LINE:210
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:3 FILE:"..\..\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:5 FILE:"..\..\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:6 FILE:"..\..\lib\lcd.lib" LINE:77
+timer0_ovf_isr DSTACK_USAGE:2 DSTACK_LEVEL:8 FILE:"delay.c" LINE:181

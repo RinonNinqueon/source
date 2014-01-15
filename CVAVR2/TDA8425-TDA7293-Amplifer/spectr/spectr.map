@@ -1,0 +1,39 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ch                                                                0160h        6
+Beta                                                              0166h        2
+Suma                                                              0168h        2
+Sam                                                               016Ah        1
+Rex_t                                                             016Bh        2
+Imx_t                                                             016Dh        2
+Data                                                              016Fh       64
+Sample_h                                                          01AFh       64
+Sample_l                                                          01EFh       64
+Rex                                                               022Fh       32
+Result                                                            024Fh       16
+Result_o                                                          025Fh       16
+Sing                                                              026Fh        4
+Level                                                             0273h        2
+Line1d                                                            0275h       16
+Line2d                                                            0285h       16
+Falloff_count                                                     0295h       16
+maxl                                                              02A5h        2
+_seed                                                             02A7h        4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+textx                                                             R5           1
+texty                                                             R4           1
+curx                                                              R7           1
+cury                                                              R6           1
+K                                                                 R9           1
+I                                                                 R8           1
+Tmp_s                                                             R10,R11      2
+Tmp_c                                                             R12,R13      2
+Sampling                                                          R2.0      1bit

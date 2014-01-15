@@ -1,0 +1,77 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ch                                                                0219h        6
+Beta                                                              021Fh        2
+Suma                                                              0221h        2
+Sam                                                               0223h        1
+Rex_t                                                             0224h        2
+Imx_t                                                             0226h        2
+Data                                                              0228h       64
+Sample_h                                                          0268h       64
+Sample_l                                                          02A8h       64
+Rex                                                               02E8h       32
+Result                                                            0308h       16
+Result_o                                                          0318h       16
+Sing                                                              0328h        4
+Level                                                             032Ch        2
+Line1d                                                            032Eh       16
+Line2d                                                            033Eh       16
+Falloff_count                                                     034Eh       16
+maxl                                                              035Eh        2
+vol                                                               0360h        1
+bas                                                               0361h        2
+tre                                                               0363h        2
+mode                                                              0365h        1
+in                                                                0366h        1
+out                                                               0367h        1
+l_on                                                              0368h        2
+l_stby                                                            036Ah        2
+l_poff                                                            036Ch        2
+l_vol                                                             036Eh        2
+l_bas                                                             0370h        2
+l_tre                                                             0372h        2
+l_out                                                             0374h        2
+l_in                                                              0376h        2
+l_chanel1                                                         0378h        2
+l_chanel2                                                         037Ah        2
+l_chanelA                                                         037Ch        2
+l_chanelB                                                         037Eh        2
+l_p_stereo                                                        0380h        2
+l_mono                                                            0382h        2
+l_stereo                                                          0384h        2
+l_s_stereo                                                        0386h        2
+l_clip                                                            0388h        2
+l_prot                                                            038Ah        2
+l_prot_poff                                                       038Ch        2
+l_prot_ac                                                         038Eh        2
+l_prot_clip                                                       0390h        2
+l_prot_SA                                                         0392h        2
+prot_stat                                                         0394h        1
+rewrite                                                           0395h        1
+_seed                                                             0396h        4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+textx                                                             R5           1
+texty                                                             R4           1
+curx                                                              R7           1
+cury                                                              R6           1
+K                                                                 R9           1
+I                                                                 R8           1
+Tmp_s                                                             R10,R11      2
+Tmp_c                                                             R12,R13      2
+Sampling                                                          R2.0      1bit
+dir                                                               R2.1      1bit
+up                                                                R2.2      1bit
+down                                                              R2.3      1bit
+lock                                                              R2.4      1bit
+lock_k                                                            R2.5      1bit
+mn                                                                R2.6      1bit
+mute                                                              R2.7      1bit
+lock_d                                                            R3.0      1bit

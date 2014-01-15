@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:3E78A030
+NODE:I LEVEL:0 LINE:1 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr2\inc\ks0108_1.h"
+NODE:F LEVEL:0 LINE:4 "drawbar_l(unsigned char x1,unsigned char y1,unsigned char x2,unsigned char max)"
+NODE:F LEVEL:0 LINE:88 "drawbar_c(unsigned int x1,unsigned char y1,unsigned int x2,unsigned int max,unsigned char offset)"
+NODE:F LEVEL:0 LINE:162 "rectangle(unsigned char x1,unsigned char y1,unsigned char x2,unsigned char y2)"
+NODE:F LEVEL:0 LINE:195 "clear_status(void)"
+NODE:F LEVEL:0 LINE:205 "clear_rec(unsigned char x1,unsigned char y1,unsigned char x2,unsigned char y2)"
+NODE:F LEVEL:0 LINE:218 "splash(void)"
