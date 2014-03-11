@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [wireless.PrjPcb]
+   Generated File[wireless.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:27:33 On 23.02.2014

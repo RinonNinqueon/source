@@ -1,0 +1,3272 @@
+(pcb PCB1.dsn
+    (resolution MIL 10000)
+    (structure
+        (boundary
+            (rect pcb
+                197.500 197.500 60000.000 7802.500
+            )
+        )
+        (boundary
+            (path signal 0.0
+                2780.000 2330.000
+                2780.000 6330.000
+                8780.000 6330.000
+                8780.000 2330.000
+                2780.000 2330.000
+            )
+        )
+        (via
+            Via0_TB_RoutingVias
+        )
+        (layer TopLayer 
+            (type signal) (direction horizontal)
+        )
+        (layer BottomLayer 
+            (type signal) (direction vertical)
+        )
+        (rule
+            (width 7.874)
+            (clearance 7.874)
+            (reorder starburst)
+        )
+        (grid wire 20.000)
+        (grid via 20.000)
+    )
+    (placement
+        (component MHDR1X5_AC
+            (place AC 7640.000 6340.000 front 0)        )
+        (component D-46_6A_BRIDGE
+            (place BRIDGE 9740.000 6420.000 front 0)        )
+        (component CAPPR7.5-16x35_C1
+            (place C1 8655.000 7185.000 front 0)        )
+        (component CAPPR7.5-16x35_C2
+            (place C2 7910.000 7185.000 front 0)        )
+        (component CAPPR7.5-16x35_C3
+            (place C3 19535.000 3875.000 front 0)        )
+        (component CAPPR7.5-16x35_C4
+            (place C4 18785.000 3875.000 front 0)        )
+        (component B_C5
+            (place C5 8060.000 5900.000 front 0)        )
+        (component B_C6
+            (place C6 8140.000 4000.000 front 0)        )
+        (component VP45-3.2_C7
+            (place C7 8300.000 3200.000 front 0)        )
+        (component VP45-3.2_C8
+            (place C8 8600.000 3120.000 front 0)        )
+        (component B_C9
+            (place C9 16190.000 4090.000 front 0)        )
+        (component VP45-3.2_C10
+            (place C10 5800.000 5700.000 front 0)        )
+        (component VP45-3.2_C11
+            (place C11 5655.000 7345.000 front 0)        )
+        (component VP45-3.2_C12
+            (place C12 21410.000 4035.000 front 0)        )
+        (component VP45-3.2_C13
+            (place C13 21630.000 4035.000 front 0)        )
+        (component LED-0_D1
+            (place D1 3300.000 2500.000 front 0)        )
+        (component LED-0_D2
+            (place D2 3900.000 2500.000 front 0)        )
+        (component LED-0_D3
+            (place D3 4500.000 2500.000 front 0)        )
+        (component LED-0_D4
+            (place D4 5100.000 2500.000 front 0)        )
+        (component LED-0_D5
+            (place D5 5700.000 2500.000 front 0)        )
+        (component LED-0_D6
+            (place D6 6300.000 2500.000 front 0)        )
+        (component LED-0_D7
+            (place D7 6900.000 2500.000 front 0)        )
+        (component LED-0_D8
+            (place D8 7500.000 2500.000 front 0)        )
+        (component LED-0_D9
+            (place D9 8100.000 2500.000 front 0)        )
+        (component DO-35_D10
+            (place D10 11320.000 4015.000 front 0)        )
+        (component DO-41_D11
+            (place D11 5000.000 3700.000 front 0)        )
+        (component DO-41_D12
+            (place D12 5600.000 3700.000 front 0)        )
+        (component HDR1X2_DEPTH_CV
+            (place DEPTH_CV 7800.000 5700.000 front 0)        )
+        (component HDR1X3_DEPTH
+            (place DEPTH 7500.000 5700.000 front 0)        )
+        (component HDR1X2_LAG
+            (place LAG 8100.000 5700.000 front 0)        )
+        (component HDR1X3_MANUAL
+            (place MANUAL 7300.000 5500.000 front 0)        )
+        (component HDR1X2_OUT
+            (place OUT 8600.000 3400.000 front 0)        )
+        (component 29-04_Q1
+            (place Q1 3000.000 4100.000 front 0)        )
+        (component 29-04_Q2
+            (place Q2 3200.000 4100.000 front 0)        )
+        (component 29-04_Q3
+            (place Q3 3500.000 4100.000 front 0)        )
+        (component 29-04_Q4
+            (place Q4 3700.000 4100.000 front 0)        )
+        (component 29-04_Q5
+            (place Q5 3900.000 4100.000 front 0)        )
+        (component 29-04_Q6
+            (place Q6 4100.000 4100.000 front 0)        )
+        (component 29-04_Q7
+            (place Q7 4300.000 4100.000 front 0)        )
+        (component 29-04_Q8
+            (place Q8 4500.000 4100.000 front 0)        )
+        (component 29-04_Q9
+            (place Q9 4700.000 4100.000 front 0)        )
+        (component 29-04_Q10
+            (place Q10 4900.000 4100.000 front 0)        )
+        (component 29-04_Q11
+            (place Q11 5100.000 4100.000 front 0)        )
+        (component 29-04_Q12
+            (place Q12 5300.000 4100.000 front 0)        )
+        (component 29-04_Q13
+            (place Q13 5500.000 4100.000 front 0)        )
+        (component 29-04_Q14
+            (place Q14 5700.000 4100.000 front 0)        )
+        (component 29-04_Q15
+            (place Q15 5900.000 4100.000 front 0)        )
+        (component 29-04_Q16
+            (place Q16 6100.000 4100.000 front 0)        )
+        (component 29-04_Q17
+            (place Q17 6300.000 4100.000 front 0)        )
+        (component 29-04_Q18
+            (place Q18 6500.000 4100.000 front 0)        )
+        (component 29-04_Q19
+            (place Q19 6700.000 4100.000 front 0)        )
+        (component 29-04_Q20
+            (place Q20 6900.000 4100.000 front 0)        )
+        (component 29-04_Q21
+            (place Q21 7100.000 4100.000 front 0)        )
+        (component 29-04_Q22
+            (place Q22 7300.000 4100.000 front 0)        )
+        (component 29-04_Q23
+            (place Q23 7500.000 4100.000 front 0)        )
+        (component 29-04_Q24
+            (place Q24 7700.000 4100.000 front 0)        )
+        (component 29-04_Q25
+            (place Q25 7900.000 4100.000 front 0)        )
+        (component 29-04_Q26
+            (place Q26 3000.000 5300.000 front 0)        )
+        (component 29-04_Q27
+            (place Q27 3000.000 5100.000 front 0)        )
+        (component 29-04_Q28
+            (place Q28 4000.000 5100.000 front 0)        )
+        (component 29-04_Q29
+            (place Q29 4000.000 5300.000 front 0)        )
+        (component 29-04_Q30
+            (place Q30 5000.000 5500.000 front 0)        )
+        (component 29-04_Q31
+            (place Q31 7000.000 5200.000 front 0)        )
+        (component 29-04_Q32
+            (place Q32 7140.000 5200.000 front 0)        )
+        (component AXIAL-0.4_R1
+            (place R1 3360.000 4100.000 front 0)        )
+        (component AXIAL-0.4_R2
+            (place R2 3700.000 4700.000 front 0)        )
+        (component AXIAL-0.4_R3
+            (place R3 4300.000 4700.000 front 0)        )
+        (component AXIAL-0.4_R4
+            (place R4 4900.000 4700.000 front 0)        )
+        (component AXIAL-0.4_R5
+            (place R5 5500.000 4700.000 front 0)        )
+        (component AXIAL-0.4_R6
+            (place R6 6100.000 4700.000 front 0)        )
+        (component AXIAL-0.4_R7
+            (place R7 6700.000 4700.000 front 0)        )
+        (component AXIAL-0.4_R8
+            (place R8 7300.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R9
+            (place R9 7900.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R10
+            (place R10 3700.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R11
+            (place R11 4300.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R12
+            (place R12 4900.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R13
+            (place R13 5500.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R14
+            (place R14 6100.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R15
+            (place R15 6700.000 4600.000 front 0)        )
+        (component AXIAL-0.4_R16
+            (place R16 7300.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R17
+            (place R17 3100.000 4520.000 front 0)        )
+        (component AXIAL-0.4_R18
+            (place R18 3700.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R19
+            (place R19 4300.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R20
+            (place R20 4900.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R21
+            (place R21 5500.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R22
+            (place R22 6100.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R23
+            (place R23 6700.000 4500.000 front 0)        )
+        (component AXIAL-0.4_R24
+            (place R24 6300.000 3900.000 front 0)        )
+        (component AXIAL-0.4_R25
+            (place R25 6800.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R26
+            (place R26 6800.000 3700.000 front 0)        )
+        (component AXIAL-0.4_R27
+            (place R27 3100.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R28
+            (place R28 3700.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R29
+            (place R29 4300.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R30
+            (place R30 4900.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R31
+            (place R31 5500.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R32
+            (place R32 6100.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R33
+            (place R33 6700.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R34
+            (place R34 7300.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R35
+            (place R35 7900.000 4400.000 front 0)        )
+        (component AXIAL-0.4_R36
+            (place R36 3000.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R37
+            (place R37 3500.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R38
+            (place R38 4100.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R39
+            (place R39 4700.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R40
+            (place R40 5300.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R41
+            (place R41 5900.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R42
+            (place R42 6500.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R43
+            (place R43 7100.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R44
+            (place R44 7700.000 3600.000 front 0)        )
+        (component AXIAL-0.4_R45
+            (place R45 7990.000 3700.000 front 0)        )
+        (component AXIAL-0.4_R46
+            (place R46 7990.000 3600.000 front 0)        )
+        (component VR5_R47
+            (place R47 8400.000 3700.000 front 0)        )
+        (component AXIAL-0.4_R48
+            (place R48 7990.000 3800.000 front 0)        )
+        (component AXIAL-0.4_R49
+            (place R49 8500.000 3000.000 front 0)        )
+        (component AXIAL-0.4_R50
+            (place R50 8300.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R51
+            (place R51 8700.000 3500.000 front 0)        )
+        (component AXIAL-0.4_R52
+            (place R52 3000.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R53
+            (place R53 3100.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R54
+            (place R54 3500.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R55
+            (place R55 3700.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R56
+            (place R56 4100.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R57
+            (place R57 4300.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R58
+            (place R58 4700.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R59
+            (place R59 4900.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R60
+            (place R60 5300.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R61
+            (place R61 5500.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R62
+            (place R62 5900.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R63
+            (place R63 6100.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R64
+            (place R64 6500.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R65
+            (place R65 6700.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R66
+            (place R66 7100.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R67
+            (place R67 7300.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R68
+            (place R68 7700.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R69
+            (place R69 7900.000 2600.000 front 0)        )
+        (component AXIAL-0.4_R70
+            (place R70 4600.000 5000.000 front 0)        )
+        (component AXIAL-0.4_R71
+            (place R71 4300.000 5300.000 front 0)        )
+        (component AXIAL-0.4_R72
+            (place R72 5000.000 5100.000 front 0)        )
+        (component AXIAL-0.4_R73
+            (place R73 4900.000 5100.000 front 0)        )
+        (component AXIAL-0.4_R74
+            (place R74 4600.000 5600.000 front 0)        )
+        (component AXIAL-0.4_R75
+            (place R75 4200.000 5300.000 front 0)        )
+        (component AXIAL-0.4_R76
+            (place R76 3800.000 5500.000 front 0)        )
+        (component AXIAL-0.4_R77
+            (place R77 3800.000 5600.000 front 0)        )
+        (component AXIAL-0.4_R78
+            (place R78 3200.000 5600.000 front 0)        )
+        (component AXIAL-0.4_R79
+            (place R79 3200.000 5500.000 front 0)        )
+        (component AXIAL-0.4_R80
+            (place R80 7000.000 5600.000 front 0)        )
+        (component AXIAL-0.4_R81
+            (place R81 7000.000 5700.000 front 0)        )
+        (component AXIAL-0.4_R82
+            (place R82 5400.000 5600.000 front 0)        )
+        (component AXIAL-0.4_R83
+            (place R83 5400.000 5700.000 front 0)        )
+        (component AXIAL-0.4_R84
+            (place R84 6300.000 5750.000 front 0)        )
+        (component AXIAL-0.4_R85
+            (place R85 6300.000 5640.000 front 0)        )
+        (component AXIAL-0.4_R86
+            (place R86 5340.000 5040.000 front 0)        )
+        (component AXIAL-0.4_R87
+            (place R87 5860.000 5040.000 front 0)        )
+        (component AXIAL-0.4_R88
+            (place R88 6360.000 5040.000 front 0)        )
+        (component AXIAL-0.4_R89
+            (place R89 6660.000 5140.000 front 0)        )
+        (component AXIAL-0.4_R90
+            (place R90 6860.000 5040.000 front 0)        )
+        (component VR5_R91
+            (place R91 7400.000 5200.000 front 0)        )
+        (component AXIAL-0.4_R92
+            (place R92 7800.000 5300.000 front 0)        )
+        (component AXIAL-0.4_R93
+            (place R93 7000.000 5500.000 front 0)        )
+        (component AXIAL-0.4_R94
+            (place R94 7800.000 5100.000 front 0)        )
+        (component AXIAL-0.4_R95
+            (place R95 7800.000 5000.000 front 0)        )
+        (component AXIAL-0.4_R96
+            (place R96 7800.000 5200.000 front 0)        )
+        (component AXIAL-0.4_R97
+            (place R97 8260.000 5700.000 front 0)        )
+        (component HDR1X2_RATE_CV
+            (place RATE_CV 8100.000 5500.000 front 0)        )
+        (component HDR1X3_RATE
+            (place RATE 8400.000 5700.000 front 0)        )
+        (component HDR1X2_SCAN_CV
+            (place SCAN_CV 7800.000 5500.000 front 0)        )
+        (component H06C_U1
+            (place U1 3300.000 3200.000 front 0)        )
+        (component H06C_U2
+            (place U2 3900.000 3200.000 front 0)        )
+        (component H06C_U3
+            (place U3 4500.000 3200.000 front 0)        )
+        (component H06C_U4
+            (place U4 5100.000 3200.000 front 0)        )
+        (component H06C_U5
+            (place U5 5700.000 3200.000 front 0)        )
+        (component H06C_U6
+            (place U6 6300.000 3200.000 front 0)        )
+        (component H06C_U7
+            (place U7 6900.000 3200.000 front 0)        )
+        (component H06C_U8
+            (place U8 7500.000 3200.000 front 0)        )
+        (component H06C_U9
+            (place U9 8000.000 3200.000 front 0)        )
+        (component JG008_U10
+            (place U10 8560.000 2700.000 front 0)        )
+        (component LP03_U11
+            (place U11 7300.000 3600.000 front 0)        )
+        (component 646-06_U12
+            (place U12 3500.000 5200.000 front 0)        )
+        (component DIP8_U13
+            (place U13 4600.000 5300.000 front 0)        )
+        (component N16E_U14
+            (place U14 5500.000 5300.000 front 0)        )
+        (component DIP8_U15
+            (place U15 6200.000 5300.000 front 0)        )
+        (component ISOWATT220AB_U16
+            (place U16 4835.000 7295.000 front 0)        )
+        (component TO220V_U17
+            (place U17 5155.000 7295.000 front 0)        )
+        (component HDR1X9_VCA_IN
+            (place VCA_IN 2900.000 3800.000 front 0)        )
+    )
+    (library
+        (image MHDR1X5_AC
+            (pin Pad35 5 0.000 200.000  (rotate 90))
+            (pin Pad35 4 0.000 150.000  (rotate 90))
+            (pin Pad35 3 0.000 100.000  (rotate 90))
+            (pin Pad35 2 0.000 50.000  (rotate 90))
+            (pin Pad36 1 0.000 0.000  (rotate 90))
+        )
+        (image D-46_6A_BRIDGE
+            (pin Pad33 2 -210.039 -210.039 )
+            (pin Pad33 3 210.039 -210.039 )
+            (pin Pad33 4 210.039 210.039 )
+            (pin Pad34 1 -210.039 210.039 )
+        )
+        (image CAPPR7.5-16x35_C1
+            (pin Pad26 2 147.638 0.000 )
+            (pin Pad27 1 -147.638 0.000 )
+        )
+        (image CAPPR7.5-16x35_C2
+            (pin Pad26 2 147.638 0.000 )
+            (pin Pad27 1 -147.638 0.000 )
+        )
+        (image CAPPR7.5-16x35_C3
+            (pin Pad26 2 147.638 0.000 )
+            (pin Pad27 1 -147.638 0.000 )
+        )
+        (image CAPPR7.5-16x35_C4
+            (pin Pad26 2 147.638 0.000 )
+            (pin Pad27 1 -147.638 0.000 )
+        )
+        (image B_C5
+            (pin Pad22 2 -39.370 0.000 )
+            (pin Pad23 1 39.370 0.000 )
+        )
+        (image B_C6
+            (pin Pad24 2 39.370 0.000 )
+            (pin Pad25 1 -39.370 0.000 )
+        )
+        (image VP45-3.2_C7
+            (pin Pad38 1 0.000 100.000  (rotate 270))
+            (pin Pad38 2 0.000 -100.000  (rotate 270))
+        )
+        (image VP45-3.2_C8
+            (pin Pad41 1 100.000 0.000 )
+            (pin Pad41 2 -100.000 0.000 )
+        )
+        (image B_C9
+            (pin Pad24 2 39.370 0.000 )
+            (pin Pad25 1 -39.370 0.000 )
+        )
+        (image VP45-3.2_C10
+            (pin Pad19 1 -100.000 0.000 )
+            (pin Pad19 2 100.000 0.000 )
+        )
+        (image VP45-3.2_C11
+            (pin Pad28 1 0.000 -100.000  (rotate 90))
+            (pin Pad28 2 0.000 100.000  (rotate 90))
+        )
+        (image VP45-3.2_C12
+            (pin Pad28 1 0.000 -100.000  (rotate 90))
+            (pin Pad28 2 0.000 100.000  (rotate 90))
+        )
+        (image VP45-3.2_C13
+            (pin Pad28 1 0.000 -100.000  (rotate 90))
+            (pin Pad28 2 0.000 100.000  (rotate 90))
+        )
+        (image LED-0_D1
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D2
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D3
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D4
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D5
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D6
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D7
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D8
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image LED-0_D9
+            (pin Pad37 2 -50.000 0.000 )
+            (pin Pad37 1 50.000 0.000 )
+        )
+        (image DO-35_D10
+            (pin Pad11 1 0.000 -139.764  (rotate 90))
+            (pin Pad10 2 0.000 139.764  (rotate 90))
+        )
+        (image DO-41_D11
+            (pin Pad16 1 -205.905 0.000 )
+            (pin Pad15 2 205.905 0.000 )
+        )
+        (image DO-41_D12
+            (pin Pad16 1 -205.905 0.000 )
+            (pin Pad15 2 205.905 0.000 )
+        )
+        (image HDR1X2_DEPTH_CV
+            (pin Pad7 2 -100.000 0.000 )
+            (pin Pad6 1 0.000 0.000 )
+        )
+        (image HDR1X3_DEPTH
+            (pin Pad7 3 -200.000 0.000 )
+            (pin Pad7 2 -100.000 0.000 )
+            (pin Pad6 1 0.000 0.000 )
+        )
+        (image HDR1X2_LAG
+            (pin Pad7 2 -100.000 0.000 )
+            (pin Pad6 1 0.000 0.000 )
+        )
+        (image HDR1X3_MANUAL
+            (pin Pad17 3 200.000 0.000 )
+            (pin Pad17 2 100.000 0.000 )
+            (pin Pad18 1 0.000 0.000 )
+        )
+        (image HDR1X2_OUT
+            (pin Pad7 2 -100.000 0.000 )
+            (pin Pad6 1 0.000 0.000 )
+        )
+        (image 29-04_Q1
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q2
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q3
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q4
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q5
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q6
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q7
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q8
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q9
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q10
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q11
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q12
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q13
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q14
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q15
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q16
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q17
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q18
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q19
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q20
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q21
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q22
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q23
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q24
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q25
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q26
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q27
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q28
+            (pin Pad14 3 0.000 -50.000 )
+            (pin Pad14 2 0.000 0.000 )
+            (pin Pad14 1 0.000 50.000 )
+        )
+        (image 29-04_Q29
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q30
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q31
+            (pin Pad13 3 0.000 50.000 )
+            (pin Pad13 2 0.000 0.000 )
+            (pin Pad13 1 0.000 -50.000 )
+        )
+        (image 29-04_Q32
+            (pin Pad14 3 0.000 -50.000 )
+            (pin Pad14 2 0.000 0.000 )
+            (pin Pad14 1 0.000 50.000 )
+        )
+        (image AXIAL-0.4_R1
+            (pin Pad12 2 0.000 -200.000  (rotate 270))
+            (pin Pad12 1 0.000 200.000  (rotate 270))
+        )
+        (image AXIAL-0.4_R2
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R3
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R4
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R5
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R6
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R7
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R8
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R9
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R10
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R11
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R12
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R13
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R14
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R15
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R16
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R17
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R18
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R19
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R20
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R21
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R22
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R23
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R24
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R25
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R26
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R27
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R28
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R29
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R30
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R31
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R32
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R33
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R34
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R35
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R36
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R37
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R38
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R39
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R40
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R41
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R42
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R43
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R44
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R45
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R46
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image VR5_R47
+            (pin Pad39 3 0.000 100.000  (rotate 90))
+            (pin Pad39 2 0.000 0.000  (rotate 90))
+            (pin Pad40 1 0.000 -100.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R48
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R49
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R50
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R51
+            (pin Pad12 2 0.000 -200.000  (rotate 270))
+            (pin Pad12 1 0.000 200.000  (rotate 270))
+        )
+        (image AXIAL-0.4_R52
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R53
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R54
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R55
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R56
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R57
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R58
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R59
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R60
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R61
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R62
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R63
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R64
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R65
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R66
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R67
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R68
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R69
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R70
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R71
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R72
+            (pin Pad12 2 0.000 -200.000  (rotate 270))
+            (pin Pad12 1 0.000 200.000  (rotate 270))
+        )
+        (image AXIAL-0.4_R73
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R74
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R75
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image AXIAL-0.4_R76
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R77
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R78
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R79
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R80
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R81
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R82
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R83
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R84
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R85
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R86
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R87
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R88
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R89
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image AXIAL-0.4_R90
+            (pin Pad5 2 200.000 0.000 )
+            (pin Pad5 1 -200.000 0.000 )
+        )
+        (image VR5_R91
+            (pin Pad9 3 0.000 -100.000  (rotate 270))
+            (pin Pad9 2 0.000 0.000  (rotate 270))
+            (pin Pad8 1 0.000 100.000  (rotate 270))
+        )
+        (image AXIAL-0.4_R92
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R93
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R94
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R95
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R96
+            (pin Pad4 2 -200.000 0.000 )
+            (pin Pad4 1 200.000 0.000 )
+        )
+        (image AXIAL-0.4_R97
+            (pin Pad3 2 0.000 200.000  (rotate 90))
+            (pin Pad3 1 0.000 -200.000  (rotate 90))
+        )
+        (image HDR1X2_RATE_CV
+            (pin Pad7 2 -100.000 0.000 )
+            (pin Pad6 1 0.000 0.000 )
+        )
+        (image HDR1X3_RATE
+            (pin Pad20 3 0.000 -200.000  (rotate 270))
+            (pin Pad20 2 0.000 -100.000  (rotate 270))
+            (pin Pad21 1 0.000 0.000  (rotate 270))
+        )
+        (image HDR1X2_SCAN_CV
+            (pin Pad7 2 -100.000 0.000 )
+            (pin Pad6 1 0.000 0.000 )
+        )
+        (image H06C_U1
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U2
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U3
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U4
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U5
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U6
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U7
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U8
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image H06C_U9
+            (pin Pad2 6 70.711 70.711  (rotate 315))
+            (pin Pad2 5 100.001 0.000  (rotate 315))
+            (pin Pad2 4 70.711 -70.711  (rotate 315))
+            (pin Pad2 3 -70.711 -70.711  (rotate 315))
+            (pin Pad2 2 -100.001 0.000  (rotate 315))
+            (pin Pad1 1 -70.711 70.711  (rotate 315))
+        )
+        (image JG008_U10
+            (pin Pad18 1 -150.000 150.000 )
+            (pin Pad17 2 -150.000 50.000 )
+            (pin Pad17 3 -150.000 -50.000 )
+            (pin Pad17 4 -150.000 -150.000 )
+            (pin Pad17 8 150.000 150.000 )
+            (pin Pad17 7 150.000 50.000 )
+            (pin Pad17 6 150.000 -50.000 )
+            (pin Pad17 5 150.000 -150.000 )
+        )
+        (image LP03_U11
+            (pin Pad14 1 0.000 50.000 )
+            (pin Pad14 2 0.000 0.000 )
+            (pin Pad14 3 0.000 -50.000 )
+        )
+        (image 646-06_U12
+            (pin Pad10 1 -300.000 -150.000  (rotate 90))
+            (pin Pad11 2 -200.000 -150.000  (rotate 90))
+            (pin Pad11 3 -100.000 -150.000  (rotate 90))
+            (pin Pad11 4 0.000 -150.000  (rotate 90))
+            (pin Pad11 5 100.000 -150.000  (rotate 90))
+            (pin Pad11 6 200.000 -150.000  (rotate 90))
+            (pin Pad11 7 300.000 -150.000  (rotate 90))
+            (pin Pad11 14 -300.000 150.000  (rotate 90))
+            (pin Pad11 13 -200.000 150.000  (rotate 90))
+            (pin Pad11 12 -100.000 150.000  (rotate 90))
+            (pin Pad11 11 0.000 150.000  (rotate 90))
+            (pin Pad11 10 100.000 150.000  (rotate 90))
+            (pin Pad11 9 200.000 150.000  (rotate 90))
+            (pin Pad11 8 300.000 150.000  (rotate 90))
+        )
+        (image DIP8_U13
+            (pin Pad10 1 -150.000 -150.000  (rotate 90))
+            (pin Pad11 2 -50.000 -150.000  (rotate 90))
+            (pin Pad11 3 50.000 -150.000  (rotate 90))
+            (pin Pad11 4 150.000 -150.000  (rotate 90))
+            (pin Pad11 8 -150.000 150.000  (rotate 90))
+            (pin Pad11 7 -50.000 150.000  (rotate 90))
+            (pin Pad11 6 50.000 150.000  (rotate 90))
+            (pin Pad11 5 150.000 150.000  (rotate 90))
+        )
+        (image N16E_U14
+            (pin Pad11 9 350.000 150.000  (rotate 90))
+            (pin Pad11 10 250.000 150.000  (rotate 90))
+            (pin Pad11 11 150.000 150.000  (rotate 90))
+            (pin Pad11 12 50.000 150.000  (rotate 90))
+            (pin Pad11 13 -50.000 150.000  (rotate 90))
+            (pin Pad11 14 -150.000 150.000  (rotate 90))
+            (pin Pad11 15 -250.000 150.000  (rotate 90))
+            (pin Pad11 16 -350.000 150.000  (rotate 90))
+            (pin Pad11 8 350.000 -150.000  (rotate 90))
+            (pin Pad11 7 250.000 -150.000  (rotate 90))
+            (pin Pad11 6 150.000 -150.000  (rotate 90))
+            (pin Pad11 5 50.000 -150.000  (rotate 90))
+            (pin Pad11 4 -50.000 -150.000  (rotate 90))
+            (pin Pad11 3 -150.000 -150.000  (rotate 90))
+            (pin Pad11 2 -250.000 -150.000  (rotate 90))
+            (pin Pad10 1 -350.000 -150.000  (rotate 90))
+        )
+        (image DIP8_U15
+            (pin Pad10 1 -150.000 -150.000  (rotate 90))
+            (pin Pad11 2 -50.000 -150.000  (rotate 90))
+            (pin Pad11 3 50.000 -150.000  (rotate 90))
+            (pin Pad11 4 150.000 -150.000  (rotate 90))
+            (pin Pad11 8 -150.000 150.000  (rotate 90))
+            (pin Pad11 7 -50.000 150.000  (rotate 90))
+            (pin Pad11 6 50.000 150.000  (rotate 90))
+            (pin Pad11 5 150.000 150.000  (rotate 90))
+        )
+        (image ISOWATT220AB_U16
+            (pin Pad29 2 0.000 100.000  (rotate 90))
+            (pin Pad29 3 0.000 0.000  (rotate 90))
+            (pin Pad30 1 0.000 -100.000  (rotate 90))
+        )
+        (image TO220V_U17
+            (pin Pad31 1 0.000 -100.000  (rotate 90))
+            (pin Pad32 3 0.000 0.000  (rotate 90))
+            (pin Pad32 2 0.000 100.000  (rotate 90))
+        )
+        (image HDR1X9_VCA_IN
+            (pin Pad20 2 0.000 -100.000  (rotate 270))
+            (pin Pad20 9 0.000 -800.000  (rotate 270))
+            (pin Pad20 8 0.000 -700.000  (rotate 270))
+            (pin Pad20 7 0.000 -600.000  (rotate 270))
+            (pin Pad20 6 0.000 -500.000  (rotate 270))
+            (pin Pad20 5 0.000 -400.000  (rotate 270))
+            (pin Pad20 4 0.000 -300.000  (rotate 270))
+            (pin Pad20 3 0.000 -200.000  (rotate 270))
+            (pin Pad21 1 0.000 0.000  (rotate 270))
+        )
+        (padstack Via0_TB_RoutingVias
+            (shape (circle signal 39.370))
+        )
+        (padstack Pad1
+            (shape (rect signal -27.559 -27.559 27.559 27.559))
+        )
+        (padstack Pad2
+            (shape (circle signal 55.118))
+        )
+        (padstack Pad3
+            (shape (circle signal 55.118))
+        )
+        (padstack Pad4
+            (shape (circle signal 55.118))
+        )
+        (padstack Pad5
+            (shape (circle signal 55.118))
+        )
+        (padstack Pad6
+            (shape (rect signal -29.527 -29.527 29.527 29.527))
+        )
+        (padstack Pad7
+            (shape (circle signal 59.055))
+        )
+        (padstack Pad8
+            (shape (rect signal -23.622 -23.622 23.622 23.622))
+        )
+        (padstack Pad9
+            (shape (circle signal 47.244))
+        )
+        (padstack Pad10
+            (shape (rect signal -29.527 -29.527 29.527 29.527))
+        )
+        (padstack Pad11
+            (shape (circle signal 59.055))
+        )
+        (padstack Pad12
+            (shape (circle signal 55.118))
+        )
+        (padstack Pad13
+            (shape (rect signal -19.685 -19.685 19.685 19.685))
+            (shape (circle signal 39.370 -19.685 0.000))
+            (shape (circle signal 39.370 19.685 0.000))
+        )
+        (padstack Pad14
+            (shape (rect signal -19.685 -19.685 19.685 19.685))
+            (shape (circle signal 39.370 -19.685 0.000))
+            (shape (circle signal 39.370 19.685 0.000))
+        )
+        (padstack Pad15
+            (shape (rect signal -39.370 -39.370 39.370 39.370))
+        )
+        (padstack Pad16
+            (shape (circle signal 78.740))
+        )
+        (padstack Pad17
+            (shape (circle signal 59.055))
+        )
+        (padstack Pad18
+            (shape (rect signal -29.527 -29.527 29.527 29.527))
+        )
+        (padstack Pad19
+            (shape (circle signal 64.961))
+        )
+        (padstack Pad20
+            (shape (circle signal 59.055))
+        )
+        (padstack Pad21
+            (shape (rect signal -29.527 -29.527 29.527 29.527))
+        )
+        (padstack Pad22
+            (shape (circle signal 49.213))
+        )
+        (padstack Pad23
+            (shape (rect signal -24.606 -24.606 24.606 24.606))
+        )
+        (padstack Pad24
+            (shape (circle signal 49.213))
+        )
+        (padstack Pad25
+            (shape (rect signal -24.606 -24.606 24.606 24.606))
+        )
+        (padstack Pad26
+            (shape (circle signal 72.835))
+        )
+        (padstack Pad27
+            (shape (rect signal -36.417 -36.417 36.417 36.417))
+        )
+        (padstack Pad28
+            (shape (circle signal 64.961))
+        )
+        (padstack Pad29
+            (shape (circle signal 70.866))
+        )
+        (padstack Pad30
+            (shape (rect signal -35.433 -35.433 35.433 35.433))
+        )
+        (padstack Pad31
+            (shape (rect signal -33.465 -33.465 33.465 33.465))
+        )
+        (padstack Pad32
+            (shape (circle signal 66.929))
+        )
+        (padstack Pad33
+            (shape (circle signal 82.677))
+        )
+        (padstack Pad34
+            (shape (rect signal -41.339 -41.339 41.339 41.339))
+        )
+        (padstack Pad35
+            (shape (circle signal 39.370))
+        )
+        (padstack Pad36
+            (shape (rect signal -19.685 -19.685 19.685 19.685))
+        )
+        (padstack Pad37
+            (shape (circle signal 70.000))
+        )
+        (padstack Pad38
+            (shape (circle signal 64.961))
+        )
+        (padstack Pad39
+            (shape (circle signal 47.244))
+        )
+        (padstack Pad40
+            (shape (rect signal -23.622 -23.622 23.622 23.622))
+        )
+        (padstack Pad41
+            (shape (circle signal 64.961))
+        )
+    )
+    (network
+        (net +15
+            (pins
+                R28-2 R27-2 R29-2 R31-2 D12-2 R30-2 R33-2 
+                R32-2 U13-8 U14-11 U16-2 U15-8 R48-2 R34-2 R35-2 
+                U10-7 C4-1 C12-1 R91-1 R93-1 R95-2 MANUAL-3 DEPTH-1 
+            )
+        )
+        (net -6
+            (pins
+                R24-2 U12-5 R23-2 R73-1 R25-1 U11-2 Q21-2 
+                C9-2 
+            )
+        )
+        (net -13
+            (pins
+                U12-3 U12-10 U12-12 Q28-1 R76-2 
+            )
+        )
+        (net -15
+            (pins
+                Q3-1 Q1-1 Q6-1 Q4-1 D11-1 Q9-1 Q7-1 
+                Q13-1 Q10-1 Q12-1 R79-1 U12-11 R78-1 R76-1 R77-1 
+                U13-4 U14-6 U17-2 R24-1 Q16-1 Q15-1 Q18-1 Q19-1 
+                U10-4 C3-2 Q22-1 Q21-1 Q24-1 U14-7 U14-10 U15-4 
+                Q32-1 C13-2 R91-2 MANUAL-1 RATE-1 
+            )
+        )
+        (net GND
+            (pins
+                R54-1 R52-1 R53-1 R57-1 R58-1 R55-1 R56-1 
+                R59-1 R64-1 R60-1 D11-2 D12-1 R62-1 R63-1 R61-1 
+                U12-4 R72-2 U13-5 R75-2 U16-3 Q30-2 U17-1 U14-4 
+                R86-2 U15-2 U14-13 U15-5 R82-1 C11-2 R65-1 R66-1 
+                R26-2 U11-3 R67-1 R68-1 R69-1 C6-2 R50-1 C7-1 
+                OUT-2 C4-2 C3-1 C13-1 Q31-2 SCAN_CV-2 DEPTH-3 AC-4 
+                DEPTH_CV-2 AC-2 R92-1 C9-1 D10-2 C12-2 RATE_CV-2 LAG-2 
+                C2-2 RATE-3 C1-1 
+            )
+        )
+        (net NetAC_1
+            (pins
+                AC-1 U16-1 BRIDGE-2 BRIDGE-1 C2-1 
+            )
+        )
+        (net NetAC_5
+            (pins
+                AC-5 BRIDGE-3 
+            )
+        )
+        (net NetBRIDGE_4
+            (pins
+                U17-3 BRIDGE-4 C1-2 
+            )
+        )
+        (net NetC5_1
+            (pins
+                LAG-1 C5-1 
+            )
+        )
+        (net NetC5_2
+            (pins
+                R96-1 C5-2 D10-1 R97-2 
+            )
+        )
+        (net NetC6_1
+            (pins
+                C6-1 R48-1 R47-3 
+            )
+        )
+        (net NetC7_2
+            (pins
+                U3-6 U1-6 U2-6 U6-6 U7-6 U4-6 U5-6 
+                U10-3 R50-2 U8-6 R45-2 C7-2 U9-6 
+            )
+        )
+        (net NetC8_1
+            (pins
+                R49-1 U10-6 C8-1 R51-2 
+            )
+        )
+        (net NetC8_2
+            (pins
+                U3-1 U1-1 U2-1 U6-1 U4-1 U5-1 U7-1 
+                R49-2 U10-2 C8-2 U8-1 R46-1 U9-1 
+            )
+        )
+        (net NetC10_1
+            (pins
+                C10-1 R83-2 R89-2 U15-7 
+            )
+        )
+        (net NetC10_2
+            (pins
+                U14-5 U15-6 C10-2 
+            )
+        )
+        (net NetC11_1
+            (pins
+                C11-1 MANUAL-2 R80-1 
+            )
+        )
+        (net NetD1_1
+            (pins
+                D1-1 U1-3 U1-4 
+            )
+        )
+        (net NetD1_2
+            (pins
+                Q2-1 D1-2 
+            )
+        )
+        (net NetD2_1
+            (pins
+                D2-1 U2-3 U2-4 
+            )
+        )
+        (net NetD2_2
+            (pins
+                D2-2 Q5-1 
+            )
+        )
+        (net NetD3_1
+            (pins
+                D3-1 U3-3 U3-4 
+            )
+        )
+        (net NetD3_2
+            (pins
+                D3-2 Q8-1 
+            )
+        )
+        (net NetD4_1
+            (pins
+                D4-1 U4-3 U4-4 
+            )
+        )
+        (net NetD4_2
+            (pins
+                D4-2 Q11-1 
+            )
+        )
+        (net NetD5_1
+            (pins
+                D5-1 U5-3 U5-4 
+            )
+        )
+        (net NetD5_2
+            (pins
+                D5-2 Q14-1 
+            )
+        )
+        (net NetD6_1
+            (pins
+                D6-1 U6-3 U6-4 
+            )
+        )
+        (net NetD6_2
+            (pins
+                D6-2 Q17-1 
+            )
+        )
+        (net NetD7_1
+            (pins
+                D7-1 U7-3 U7-4 
+            )
+        )
+        (net NetD7_2
+            (pins
+                D7-2 Q20-1 
+            )
+        )
+        (net NetD8_1
+            (pins
+                D8-1 U8-3 U8-4 
+            )
+        )
+        (net NetD8_2
+            (pins
+                D8-2 Q23-1 
+            )
+        )
+        (net NetD9_1
+            (pins
+                U9-3 U9-4 D9-1 
+            )
+        )
+        (net NetD9_2
+            (pins
+                Q25-1 D9-2 
+            )
+        )
+        (net NetDEPTH_2
+            (pins
+                R84-1 DEPTH-2 
+            )
+        )
+        (net NetDEPTH_CV_1
+            (pins
+                R85-1 DEPTH_CV-1 
+            )
+        )
+        (net NetOUT_1
+            (pins
+                OUT-1 R51-1 
+            )
+        )
+        (net NetQ1_2
+            (pins
+                R17-1 Q1-2 Q26-1 
+            )
+        )
+        (net NetQ1_3
+            (pins
+                Q1-3 R27-1 Q2-2 
+            )
+        )
+        (net NetQ2_3
+            (pins
+                Q2-3 R1-2 
+            )
+        )
+        (net NetQ3_2
+            (pins
+                R18-1 Q3-2 R17-2 
+            )
+        )
+        (net NetQ3_3
+            (pins
+                Q3-3 R28-1 Q5-2 Q4-3 
+            )
+        )
+        (net NetQ4_2
+            (pins
+                R10-1 Q4-2 R70-2 U13-1 
+            )
+        )
+        (net NetQ5_3
+            (pins
+                Q5-3 R2-2 
+            )
+        )
+        (net NetQ6_2
+            (pins
+                R18-2 Q6-2 R19-1 
+            )
+        )
+        (net NetQ6_3
+            (pins
+                Q6-3 R29-1 Q8-2 Q7-3 
+            )
+        )
+        (net NetQ7_2
+            (pins
+                R10-2 R11-1 Q7-2 
+            )
+        )
+        (net NetQ8_3
+            (pins
+                Q8-3 R3-2 
+            )
+        )
+        (net NetQ9_2
+            (pins
+                R19-2 Q9-2 R20-1 
+            )
+        )
+        (net NetQ9_3
+            (pins
+                Q9-3 R30-1 Q11-2 Q10-3 
+            )
+        )
+        (net NetQ10_2
+            (pins
+                R11-2 R12-1 Q10-2 
+            )
+        )
+        (net NetQ11_3
+            (pins
+                Q11-3 R4-2 
+            )
+        )
+        (net NetQ12_2
+            (pins
+                R20-2 Q12-2 R21-1 
+            )
+        )
+        (net NetQ12_3
+            (pins
+                Q12-3 R31-1 Q14-2 Q13-3 
+            )
+        )
+        (net NetQ13_2
+            (pins
+                R12-2 R13-1 Q13-2 
+            )
+        )
+        (net NetQ14_3
+            (pins
+                Q14-3 R5-2 
+            )
+        )
+        (net NetQ15_2
+            (pins
+                R21-2 Q15-2 R22-1 
+            )
+        )
+        (net NetQ15_3
+            (pins
+                Q15-3 R32-1 Q17-2 Q16-3 
+            )
+        )
+        (net NetQ16_2
+            (pins
+                R13-2 R14-1 Q16-2 
+            )
+        )
+        (net NetQ17_3
+            (pins
+                Q17-3 R6-2 
+            )
+        )
+        (net NetQ18_2
+            (pins
+                R22-2 Q18-2 R23-1 
+            )
+        )
+        (net NetQ18_3
+            (pins
+                Q18-3 R33-1 Q20-2 Q19-3 
+            )
+        )
+        (net NetQ19_2
+            (pins
+                R14-2 R15-1 Q19-2 
+            )
+        )
+        (net NetQ20_3
+            (pins
+                Q20-3 R7-2 
+            )
+        )
+        (net NetQ21_3
+            (pins
+                Q21-3 R34-1 Q23-2 Q22-3 
+            )
+        )
+        (net NetQ22_2
+            (pins
+                R16-1 R15-2 Q22-2 
+            )
+        )
+        (net NetQ23_3
+            (pins
+                Q23-3 R8-2 
+            )
+        )
+        (net NetQ24_2
+            (pins
+                Q29-1 Q24-2 R16-2 
+            )
+        )
+        (net NetQ24_3
+            (pins
+                Q24-3 R35-1 Q25-2 
+            )
+        )
+        (net NetQ25_3
+            (pins
+                Q25-3 R9-2 
+            )
+        )
+        (net NetQ26_2
+            (pins
+                Q26-2 U12-14 
+            )
+        )
+        (net NetQ26_3
+            (pins
+                Q26-3 R78-2 U12-13 
+            )
+        )
+        (net NetQ27_1
+            (pins
+                R1-1 R4-1 R2-1 Q27-1 R3-1 R6-1 R9-1 
+                R8-1 R5-1 R7-1 
+            )
+        )
+        (net NetQ27_2
+            (pins
+                Q27-2 U12-1 
+            )
+        )
+        (net NetQ27_3
+            (pins
+                U12-2 R79-2 Q27-3 
+            )
+        )
+        (net NetQ28_2
+            (pins
+                U12-7 Q28-2 
+            )
+        )
+        (net NetQ28_3
+            (pins
+                U12-6 Q28-3 R75-1 
+            )
+        )
+        (net NetQ29_2
+            (pins
+                U12-8 Q29-2 
+            )
+        )
+        (net NetQ29_3
+            (pins
+                U12-9 Q29-3 R77-2 
+            )
+        )
+        (net NetQ30_1
+            (pins
+                Q30-1 U14-16 
+            )
+        )
+        (net NetQ30_3
+            (pins
+                Q30-3 R85-2 R84-2 
+            )
+        )
+        (net NetQ31_1
+            (pins
+                U14-1 Q31-1 
+            )
+        )
+        (net NetQ31_3
+            (pins
+                R93-2 Q32-3 Q31-3 
+            )
+        )
+        (net NetQ32_2
+            (pins
+                Q32-2 R94-2 R96-2 R92-2 
+            )
+        )
+        (net NetR25_2
+            (pins
+                R25-2 R26-1 U11-1 
+            )
+        )
+        (net NetR36_1
+            (pins
+                R52-2 R36-1 U1-2 
+            )
+        )
+        (net NetR36_2
+            (pins
+                VCA_IN-1 R36-2 
+            )
+        )
+        (net NetR37_1
+            (pins
+                R54-2 R37-1 U2-2 
+            )
+        )
+        (net NetR37_2
+            (pins
+                VCA_IN-2 R37-2 
+            )
+        )
+        (net NetR38_1
+            (pins
+                R56-2 R38-1 U3-2 
+            )
+        )
+        (net NetR38_2
+            (pins
+                VCA_IN-3 R38-2 
+            )
+        )
+        (net NetR39_1
+            (pins
+                R58-2 R39-1 U4-2 
+            )
+        )
+        (net NetR39_2
+            (pins
+                VCA_IN-4 R39-2 
+            )
+        )
+        (net NetR40_1
+            (pins
+                R60-2 R40-1 U5-2 
+            )
+        )
+        (net NetR40_2
+            (pins
+                VCA_IN-5 R40-2 
+            )
+        )
+        (net NetR41_1
+            (pins
+                R62-2 R41-1 U6-2 
+            )
+        )
+        (net NetR41_2
+            (pins
+                VCA_IN-6 R41-2 
+            )
+        )
+        (net NetR42_1
+            (pins
+                R64-2 R42-1 U7-2 
+            )
+        )
+        (net NetR42_2
+            (pins
+                VCA_IN-7 R42-2 
+            )
+        )
+        (net NetR43_1
+            (pins
+                R66-2 R43-1 U8-2 
+            )
+        )
+        (net NetR43_2
+            (pins
+                VCA_IN-8 R43-2 
+            )
+        )
+        (net NetR44_1
+            (pins
+                R68-2 R44-1 U9-2 
+            )
+        )
+        (net NetR44_2
+            (pins
+                VCA_IN-9 R44-2 
+            )
+        )
+        (net NetR45_1
+            (pins
+                R45-1 R47-2 
+            )
+        )
+        (net NetR46_2
+            (pins
+                R46-2 R47-1 
+            )
+        )
+        (net NetR53_2
+            (pins
+                R53-2 U1-5 
+            )
+        )
+        (net NetR55_2
+            (pins
+                R55-2 U2-5 
+            )
+        )
+        (net NetR57_2
+            (pins
+                R57-2 U3-5 
+            )
+        )
+        (net NetR59_2
+            (pins
+                R59-2 U4-5 
+            )
+        )
+        (net NetR61_2
+            (pins
+                R61-2 U5-5 
+            )
+        )
+        (net NetR63_2
+            (pins
+                R63-2 U6-5 
+            )
+        )
+        (net NetR65_2
+            (pins
+                R65-2 U7-5 
+            )
+        )
+        (net NetR67_2
+            (pins
+                R67-2 U8-5 
+            )
+        )
+        (net NetR69_2
+            (pins
+                R69-2 U9-5 
+            )
+        )
+        (net NetR70_1
+            (pins
+                R71-2 R70-1 U13-2 
+            )
+        )
+        (net NetR71_1
+            (pins
+                R71-1 U13-7 R74-2 
+            )
+        )
+        (net NetR72_1
+            (pins
+                U13-3 R73-2 R72-1 
+            )
+        )
+        (net NetR74_1
+            (pins
+                U13-6 R74-1 U14-12 R80-2 R81-2 
+            )
+        )
+        (net NetR81_1
+            (pins
+                R81-1 SCAN_CV-1 
+            )
+        )
+        (net NetR82_2
+            (pins
+                R82-2 R83-1 U14-14 
+            )
+        )
+        (net NetR86_1
+            (pins
+                R86-1 R87-2 U14-3 
+            )
+        )
+        (net NetR87_1
+            (pins
+                R87-1 U15-1 R88-2 
+            )
+        )
+        (net NetR88_1
+            (pins
+                R89-1 U15-3 R88-1 R90-1 
+            )
+        )
+        (net NetR90_2
+            (pins
+                R90-2 R91-3 
+            )
+        )
+        (net NetR94_1
+            (pins
+                R95-1 R94-1 RATE_CV-1 
+            )
+        )
+        (net NetR97_1
+            (pins
+                R97-1 RATE-2 
+            )
+        )
+        (class All~SP~Nets
+            +15 -6 -13 -15 GND NetAC_1 NetAC_5 
+            NetBRIDGE_4 NetC5_1 NetC5_2 NetC6_1 NetC7_2 NetC8_1 NetC8_2 NetC10_1 
+            NetC10_2 NetC11_1 NetD1_1 NetD1_2 NetD2_1 NetD2_2 NetD3_1 NetD3_2 
+            NetD4_1 NetD4_2 NetD5_1 NetD5_2 NetD6_1 NetD6_2 NetD7_1 NetD7_2 
+            NetD8_1 NetD8_2 NetD9_1 NetD9_2 NetDEPTH_2 NetDEPTH_CV_1 NetOUT_1 NetQ1_2 
+            NetQ1_3 NetQ2_3 NetQ3_2 NetQ3_3 NetQ4_2 NetQ5_3 NetQ6_2 NetQ6_3 
+            NetQ7_2 NetQ8_3 NetQ9_2 NetQ9_3 NetQ10_2 NetQ11_3 NetQ12_2 NetQ12_3 
+            NetQ13_2 NetQ14_3 NetQ15_2 NetQ15_3 NetQ16_2 NetQ17_3 NetQ18_2 NetQ18_3 
+            NetQ19_2 NetQ20_3 NetQ21_3 NetQ22_2 NetQ23_3 NetQ24_2 NetQ24_3 NetQ25_3 
+            NetQ26_2 NetQ26_3 NetQ27_1 NetQ27_2 NetQ27_3 NetQ28_2 NetQ28_3 NetQ29_2 
+            NetQ29_3 NetQ30_1 NetQ30_3 NetQ31_1 NetQ31_3 NetQ32_2 NetR25_2 NetR36_1 
+            NetR36_2 NetR37_1 NetR37_2 NetR38_1 NetR38_2 NetR39_1 NetR39_2 NetR40_1 
+            NetR40_2 NetR41_1 NetR41_2 NetR42_1 NetR42_2 NetR43_1 NetR43_2 NetR44_1 
+            NetR44_2 NetR45_1 NetR46_2 NetR53_2 NetR55_2 NetR57_2 NetR59_2 NetR61_2 
+            NetR63_2 NetR65_2 NetR67_2 NetR69_2 NetR70_1 NetR71_1 NetR72_1 NetR74_1 
+            NetR81_1 NetR82_2 NetR86_1 NetR87_1 NetR88_1 NetR90_2 NetR94_1 NetR97_1 
+        )
+    )
+    (wiring
+        (wire 
+            (path TopLayer 7.874 8380.000 3000.000 8500.000 3120.000)
+            (net NetC8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8300.000 3000.000 8380.000 3000.000)
+            (net NetC8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8200.000 3800.000 8400.000 3800.000)
+            (net NetC6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8190.000 3800.000 8200.000 3800.000)
+            (net NetC6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8100.630 3899.370 8200.000 3800.000)
+            (net NetC6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8100.630 3899.370 8100.630 4000.000)
+            (net NetC6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8190.000 3600.000 8400.000 3600.000)
+            (net NetR46_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8190.000 3700.000 8400.000 3700.000)
+            (net NetR45_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7790.000 3600.000 7929.289 3460.711)
+            (net NetC8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7929.289 3270.711 7929.289 3460.711)
+            (net NetC8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7400.000 5300.000 7450.000 5300.000)
+            (net +15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7450.000 5300.000 7500.000 5250.000)
+            (net +15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7500.000 5050.000 7500.000 5250.000)
+            (net +15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7500.000 5050.000 7550.000 5000.000)
+            (net +15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7550.000 5000.000 7600.000 5000.000)
+            (net +15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7591.546 5308.454 7591.546 5350.000)
+            (net NetQ32_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7545.773 5395.773 7591.546 5350.000)
+            (net NetQ32_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7350.000 5395.773 7545.773 5395.773)
+            (net NetQ32_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7154.227 5200.000 7350.000 5395.773)
+            (net NetQ32_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7140.000 5200.000 7154.227 5200.000)
+            (net NetQ32_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7300.000 5410.000 7300.000 5500.000)
+            (net -15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7140.000 5250.000 7300.000 5410.000)
+            (net -15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6460.000 5140.000 6560.000 5040.000)
+            (net NetR88_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6750.000 5250.000 6860.000 5140.000)
+            (net NetC10_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6350.000 5250.000 6750.000 5250.000)
+            (net NetC10_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6150.000 5450.000 6350.000 5250.000)
+            (net NetC10_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5100.000 5750.000 6100.000 5750.000)
+            (net NetQ30_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5000.000 5650.000 5100.000 5750.000)
+            (net NetQ30_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5000.000 5550.000 5000.000 5650.000)
+            (net NetQ30_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5600.000 5700.000 5700.000 5700.000)
+            (net NetC10_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5200.000 5600.000 5200.000 5700.000)
+            (net NetR82_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5700.000 5300.000 5700.000 5500.000)
+            (net NetC10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5550.000 5150.000 5700.000 5300.000)
+            (net NetC10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5700.000 5500.000 5900.000 5700.000)
+            (net NetC10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5750.000 5150.000 5750.000 5450.000)
+            (net -15)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4650.000 5150.000 4650.000 5250.000)
+            (net NetR72_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4650.000 5250.000 4700.000 5300.000)
+            (net NetR72_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4700.000 5300.000 4900.000 5300.000)
+            (net NetR72_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3550.000 5400.000 3600.000 5350.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3450.000 5400.000 3550.000 5400.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3400.000 5350.000 3450.000 5400.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3950.000 5150.000 4000.000 5150.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3900.000 5200.000 3950.000 5150.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3900.000 5200.000 3900.000 5400.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3900.000 5400.000 4000.000 5500.000)
+            (net -13)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 2900.000 5250.000 3000.000 5150.000)
+            (net NetQ27_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 2900.000 5250.000 2900.000 5400.000)
+            (net NetQ27_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 2900.000 5400.000 3000.000 5500.000)
+            (net NetQ27_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7050.000 4100.000 7100.000 4100.000)
+            (net -6)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6950.000 4000.000 7050.000 4100.000)
+            (net -6)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6950.000 3650.000 6950.000 4000.000)
+            (net -6)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6950.000 3650.000 7000.000 3600.000)
+            (net -6)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7000.000 3700.000 7050.000 3650.000)
+            (net NetR25_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7050.000 3650.000 7300.000 3650.000)
+            (net NetR25_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7000.000 3600.000 7300.000 3600.000)
+            (net -6)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7900.000 4150.000 7900.000 4400.000)
+            (net NetQ25_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7900.000 4400.000 8000.000 4500.000)
+            (net NetQ25_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8000.000 4500.000 8100.000 4500.000)
+            (net NetQ25_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7400.000 4250.000 7500.000 4150.000)
+            (net NetQ23_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7400.000 4250.000 7400.000 4500.000)
+            (net NetQ23_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7400.000 4500.000 7500.000 4600.000)
+            (net NetQ23_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7250.000 4100.000 7300.000 4100.000)
+            (net NetQ22_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7200.000 4150.000 7250.000 4100.000)
+            (net NetQ22_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7200.000 4150.000 7200.000 4450.000)
+            (net NetQ22_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7150.000 4500.000 7200.000 4450.000)
+            (net NetQ22_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7100.000 4500.000 7150.000 4500.000)
+            (net NetQ22_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6900.000 4150.000 6950.000 4200.000)
+            (net NetQ20_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6950.000 4200.000 6950.000 4650.000)
+            (net NetQ20_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6900.000 4700.000 6950.000 4650.000)
+            (net NetQ20_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6648.819 4101.181 6650.000 4100.000)
+            (net NetQ19_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6648.819 4101.181 6648.819 4448.819)
+            (net NetQ19_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6648.819 4448.819 6650.000 4450.000)
+            (net NetQ19_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6500.000 4600.000 6650.000 4450.000)
+            (net NetQ19_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6500.000 4100.000 6550.000 4100.000)
+            (net NetQ18_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6550.000 4100.000 6600.000 4150.000)
+            (net NetQ18_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6600.000 4150.000 6600.000 4450.000)
+            (net NetQ18_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6550.000 4500.000 6600.000 4450.000)
+            (net NetQ18_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6500.000 4500.000 6550.000 4500.000)
+            (net NetQ18_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6300.000 4150.000 6350.000 4200.000)
+            (net NetQ17_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6350.000 4200.000 6350.000 4650.000)
+            (net NetQ17_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6300.000 4700.000 6350.000 4650.000)
+            (net NetQ17_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6048.819 4101.181 6050.000 4100.000)
+            (net NetQ16_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6048.819 4101.181 6048.819 4448.819)
+            (net NetQ16_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6048.819 4448.819 6050.000 4450.000)
+            (net NetQ16_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5900.000 4600.000 6050.000 4450.000)
+            (net NetQ16_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5900.000 4100.000 5950.000 4100.000)
+            (net NetQ15_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5950.000 4100.000 6000.000 4150.000)
+            (net NetQ15_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6000.000 4150.000 6000.000 4450.000)
+            (net NetQ15_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5950.000 4500.000 6000.000 4450.000)
+            (net NetQ15_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5900.000 4500.000 5950.000 4500.000)
+            (net NetQ15_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5700.000 4150.000 5750.000 4200.000)
+            (net NetQ14_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5750.000 4200.000 5750.000 4650.000)
+            (net NetQ14_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5700.000 4700.000 5750.000 4650.000)
+            (net NetQ14_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5448.819 4101.181 5450.000 4100.000)
+            (net NetQ13_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5448.819 4101.181 5448.819 4448.819)
+            (net NetQ13_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5448.819 4448.819 5450.000 4450.000)
+            (net NetQ13_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5300.000 4600.000 5450.000 4450.000)
+            (net NetQ13_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5300.000 4100.000 5350.000 4100.000)
+            (net NetQ12_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5350.000 4100.000 5400.000 4150.000)
+            (net NetQ12_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5400.000 4150.000 5400.000 4450.000)
+            (net NetQ12_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5350.000 4500.000 5400.000 4450.000)
+            (net NetQ12_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5300.000 4500.000 5350.000 4500.000)
+            (net NetQ12_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5100.000 4150.000 5150.000 4200.000)
+            (net NetQ11_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5150.000 4200.000 5150.000 4650.000)
+            (net NetQ11_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5100.000 4700.000 5150.000 4650.000)
+            (net NetQ11_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4700.000 4597.638 4848.819 4448.819)
+            (net NetQ10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4848.819 4101.181 4848.819 4448.819)
+            (net NetQ10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4848.819 4101.181 4850.000 4100.000)
+            (net NetQ10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4850.000 4100.000 4900.000 4100.000)
+            (net NetQ10_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4700.000 4100.000 4750.000 4100.000)
+            (net NetQ9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4750.000 4100.000 4800.000 4150.000)
+            (net NetQ9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4800.000 4150.000 4800.000 4450.000)
+            (net NetQ9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4750.000 4500.000 4800.000 4450.000)
+            (net NetQ9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4700.000 4500.000 4750.000 4500.000)
+            (net NetQ9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4500.000 4150.000 4550.000 4200.000)
+            (net NetQ8_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4550.000 4200.000 4550.000 4650.000)
+            (net NetQ8_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4500.000 4700.000 4550.000 4650.000)
+            (net NetQ8_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4248.819 4101.181 4250.000 4100.000)
+            (net NetQ7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4248.819 4101.181 4248.819 4448.819)
+            (net NetQ7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4248.819 4448.819 4250.000 4450.000)
+            (net NetQ7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4100.000 4600.000 4250.000 4450.000)
+            (net NetQ7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4100.000 4500.000 4150.000 4500.000)
+            (net NetQ6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4150.000 4500.000 4200.000 4450.000)
+            (net NetQ6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4200.000 4150.000 4200.000 4450.000)
+            (net NetQ6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4150.000 4100.000 4200.000 4150.000)
+            (net NetQ6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4100.000 4100.000 4150.000 4100.000)
+            (net NetQ6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3900.000 4700.000 3950.000 4650.000)
+            (net NetQ5_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3950.000 4200.000 3950.000 4650.000)
+            (net NetQ5_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3500.000 4600.000 3648.819 4451.181)
+            (net NetQ4_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3648.819 4101.181 3648.819 4451.181)
+            (net NetQ4_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3648.819 4101.181 3650.000 4100.000)
+            (net NetQ4_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3600.000 4150.000 3600.000 4450.000)
+            (net NetQ3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3550.000 4100.000 3600.000 4150.000)
+            (net NetQ3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3500.000 4100.000 3550.000 4100.000)
+            (net NetQ3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3500.000 4500.000 3550.000 4500.000)
+            (net NetQ3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3550.000 4500.000 3600.000 4450.000)
+            (net NetQ3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3900.000 4150.000 3950.000 4200.000)
+            (net NetQ5_3)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7900.000 4050.000 8000.000 3950.000)
+            (net NetD9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8000.000 2950.000 8000.000 3950.000)
+            (net NetD9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8000.000 2950.000 8050.000 2900.000)
+            (net NetD9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 8050.000 2500.000 8050.000 2900.000)
+            (net NetD9_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7500.000 2650.000 7500.000 4050.000)
+            (net NetD8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7450.000 2600.000 7500.000 2650.000)
+            (net NetD8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 7450.000 2500.000 7450.000 2600.000)
+            (net NetD8_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6900.000 2650.000 6900.000 4050.000)
+            (net NetD7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6850.000 2600.000 6900.000 2650.000)
+            (net NetD7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6850.000 2500.000 6850.000 2600.000)
+            (net NetD7_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6300.000 2650.000 6300.000 4050.000)
+            (net NetD6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6250.000 2600.000 6300.000 2650.000)
+            (net NetD6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 6250.000 2500.000 6250.000 2600.000)
+            (net NetD6_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5700.000 2650.000 5700.000 4050.000)
+            (net NetD5_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5650.000 2600.000 5700.000 2650.000)
+            (net NetD5_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5650.000 2500.000 5650.000 2600.000)
+            (net NetD5_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5100.000 2650.000 5100.000 4050.000)
+            (net NetD4_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5050.000 2600.000 5100.000 2650.000)
+            (net NetD4_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 5050.000 2500.000 5050.000 2600.000)
+            (net NetD4_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4500.000 2650.000 4500.000 4050.000)
+            (net NetD3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4450.000 2600.000 4500.000 2650.000)
+            (net NetD3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 4450.000 2500.000 4450.000 2600.000)
+            (net NetD3_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3900.000 2650.000 3900.000 4050.000)
+            (net NetD2_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3850.000 2600.000 3900.000 2650.000)
+            (net NetD2_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3850.000 2500.000 3850.000 2600.000)
+            (net NetD2_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3250.000 2500.000 3250.000 2600.000)
+            (net NetD1_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3250.000 2600.000 3300.000 2650.000)
+            (net NetD1_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3300.000 2650.000 3300.000 3650.000)
+            (net NetD1_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3200.000 3750.000 3300.000 3650.000)
+            (net NetD1_2)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 7.874 3200.000 3750.000 3200.000 4050.000)
+            (net NetD1_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8200.000 3000.000 8300.000 3100.000)
+            (net NetC7_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8200.000 2900.000 8200.000 3000.000)
+            (net NetC7_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8200.000 2900.000 8300.000 2800.000)
+            (net NetC7_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8300.000 2760.000 8410.000 2650.000)
+            (net NetC7_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8300.000 2760.000 8300.000 2800.000)
+            (net NetC7_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8700.000 3120.000 8700.000 3300.000)
+            (net NetC8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8700.000 3000.000 8700.000 3120.000)
+            (net NetC8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8700.000 2918.461 8700.000 3000.000)
+            (net NetC8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8710.000 2650.000 8751.338 2691.338)
+            (net NetC8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8700.000 2918.461 8751.338 2867.123)
+            (net NetC8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8751.338 2691.338 8751.338 2867.123)
+            (net NetC8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3250.000 4150.000 3360.000 4040.000)
+            (net NetQ2_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3360.000 3900.000 3360.000 4040.000)
+            (net NetQ2_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3200.000 4150.000 3250.000 4150.000)
+            (net NetQ2_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3000.000 4150.000 3100.000 4150.000)
+            (net NetQ1_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3100.000 4150.000 3150.000 4100.000)
+            (net NetQ1_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3150.000 4100.000 3200.000 4100.000)
+            (net NetQ1_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2850.000 4150.000 2900.000 4100.000)
+            (net NetQ1_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2850.000 4150.000 2850.000 4470.000)
+            (net NetQ1_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2850.000 4470.000 2900.000 4520.000)
+            (net NetQ1_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2900.000 4250.000 3000.000 4150.000)
+            (net NetQ1_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2900.000 4250.000 2900.000 4400.000)
+            (net NetQ1_3)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7700.000 3399.999 7899.999 3200.000)
+            (net NetR44_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7700.000 3399.999 7700.000 3400.000)
+            (net NetR44_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7300.000 3200.000 7399.999 3200.000)
+            (net NetR43_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7100.000 3400.000 7300.000 3200.000)
+            (net NetR43_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6700.000 3200.000 6799.999 3200.000)
+            (net NetR42_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6500.000 3400.000 6700.000 3200.000)
+            (net NetR42_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6100.000 3200.000 6199.999 3200.000)
+            (net NetR41_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5900.000 3400.000 6100.000 3200.000)
+            (net NetR41_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5500.000 3200.000 5599.999 3200.000)
+            (net NetR40_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5300.000 3400.000 5500.000 3200.000)
+            (net NetR40_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4900.000 3200.000 4999.999 3200.000)
+            (net NetR39_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4700.000 3400.000 4900.000 3200.000)
+            (net NetR39_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4300.000 3200.000 4399.999 3200.000)
+            (net NetR38_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4100.000 3400.000 4300.000 3200.000)
+            (net NetR38_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3700.000 3200.000 3799.999 3200.000)
+            (net NetR37_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3500.000 3400.000 3700.000 3200.000)
+            (net NetR37_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3900.000 3600.000 4100.000 3800.000)
+            (net NetR38_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2900.000 3600.000 3900.000 3600.000)
+            (net NetR38_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3400.000 3700.000 3500.000 3800.000)
+            (net NetR37_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2900.000 3700.000 3400.000 3700.000)
+            (net NetR37_2)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8070.711 3129.289 8150.000 3050.000)
+            (net NetD9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 8150.000 2500.000 8150.000 3050.000)
+            (net NetD9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7550.000 2500.000 7550.000 3129.289)
+            (net NetD8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7550.000 3129.289 7570.711 3129.289)
+            (net NetD8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7429.289 3129.289 7550.000 3129.289)
+            (net NetD8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6950.000 2500.000 6950.000 3129.289)
+            (net NetD7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6950.000 3129.289 6970.711 3129.289)
+            (net NetD7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6829.289 3129.289 6950.000 3129.289)
+            (net NetD7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6350.000 2500.000 6350.000 3129.289)
+            (net NetD6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6350.000 3129.289 6370.711 3129.289)
+            (net NetD6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 6229.289 3129.289 6350.000 3129.289)
+            (net NetD6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5750.000 2500.000 5750.000 3129.289)
+            (net NetD5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5750.000 3129.289 5770.711 3129.289)
+            (net NetD5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5629.289 3129.289 5750.000 3129.289)
+            (net NetD5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5150.000 2500.000 5150.000 3129.289)
+            (net NetD4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5150.000 3129.289 5170.711 3129.289)
+            (net NetD4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 5029.289 3129.289 5150.000 3129.289)
+            (net NetD4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4550.000 2500.000 4550.000 3129.289)
+            (net NetD3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4550.000 3129.289 4570.711 3129.289)
+            (net NetD3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 4429.289 3129.289 4550.000 3129.289)
+            (net NetD3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3950.000 2500.000 3950.000 3129.289)
+            (net NetD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3950.000 3129.289 3970.711 3129.289)
+            (net NetD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3829.289 3129.289 3950.000 3129.289)
+            (net NetD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3350.000 2500.000 3350.000 3129.289)
+            (net NetD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3350.000 3129.289 3370.711 3129.289)
+            (net NetD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3229.289 3129.289 3350.000 3129.289)
+            (net NetD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3000.000 3200.000 3199.999 3200.000)
+            (net NetR36_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3000.000 3200.000 3000.000 3400.000)
+            (net NetR36_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 3000.000 2800.000 3000.000 3200.000)
+            (net NetR36_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 7929.289 3129.289 8070.711 3129.289)
+            (net NetD9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 7.874 2900.000 3800.000 3000.000 3800.000)
+            (net NetR36_2)
+            (type normal)
+        )
+        (wire 
+            (polygon TopLayer 0.000 6750.000 3400.000 6750.000 4950.000 8650.000 4950.000 8650.000 3400.000)
+            (net GND)
+            (type normal)
+        )
+    )
+)

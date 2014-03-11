@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16032010-115105";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/C31/C31.T01/C31.T01.T02/10-16032010-115105";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"TraceParts.InstanceId";"10-16032010-115105BIH35AXJEUKGSKKZTCWD06C9F";"";
+"REFERENCE";"22-27-2061";"";
+"DESIGN";"6 WAY STRT LOCK HEADERS";"";
+"SUPPLIER";"Molex";"";
+"RS_STOCK_NUMBER";"4838506P";"";
+"TraceParts.PartStatus";"Published";"";
+"REVISION";"A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"29/7/2011 16:03:01";"";

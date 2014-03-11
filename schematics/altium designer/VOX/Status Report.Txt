@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [Free Documents]
+   Generated File[Sheet1.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 0:03:46 On 30.11.2012
