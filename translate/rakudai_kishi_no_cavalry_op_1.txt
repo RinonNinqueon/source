@@ -1,4 +1,4 @@
-高みを目指すのさ A Brave New World
+﻿高みを目指すのさ A Brave New World
 takami o mezasu nosa A Brave New World
 	takami -- возвышеность
 	mezasu -- метить на что-л., ставить целью что-л.; добиваться чего-л.;
@@ -40,7 +40,7 @@ kakugo waraeba ii okori takabureba ii
 mayoi fumitsubushi Let's go again!
 	mayoi -- 1) замешательство; недоумение; колебание, нерешительность; 2) заблуждение; иллюзия;
 	fumitsubusu -- растаптывать.
-	Stamping out our hesitation, let's go again!
+	Stamping out our hesitation, let's go ahead!
 
 だから今打ち破るのさ
 dakara ima uchiyaburu nosa
