@@ -1,4 +1,4 @@
-One Punch!
+﻿One Punch!
 3, 2, 1奇勝
 3, 2, 1, kishou
 	kishou -- живописное место.
