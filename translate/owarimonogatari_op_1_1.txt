@@ -1,0 +1,58 @@
+さあ、扉を開けて冒険を今始めよ
+saa, tobira o akete bouken o ima hajimeyou
+	tobira -- дверь
+	akeru -- открывать
+	bouken -- риск; авантюра;
+	Come, open the door and let's begin this journey!
+ねえ、正しい未来へ続く答え見つけよう
+nee, tadashii mirai e tsudzuku kotae mitsukeyou
+	tadashii -- 1) правильный, правый; 2) справедливый; честный; 3) правильный, верный; 4) законный, легальный;
+	tsudzuku -- 1) продолжаться; длиться; продержаться; つづいた , つづいて 1; 2) следовать за чем-л.; つづいて 2; 3) быть смежным с чем-л., примыкать к чему-л.;
+	mitsukeru -- 1) замечать; открывать, обнаруживать, находить; заставать, застигать (на месте преступления); 2) приглядеться, присмотреться к чему-л., привыкнуть к виду чего-л.
+	Hey, let's find the answer that leads to a decent future.
+
+あれもしたい　これもしたしたいって　欲張りの法則
+are mo shitai kore mo shitai tte yokubari no housoku
+	yokubari -- 1) жадность, алчность; скупость; ～の жадный, алчный; скупой;
+	housoku -- закон; правило;
+	Saying we wanna do this and that is like submitting to a greedy rule...
+あれもダメ　これもダメって　結局矛盾だらけ
+are mo dame kore mo dame tte kekkyoku mujun darake
+	kekkyoku -- 1. заключение, окончание; 2. в конце концов; в заключение [всего]; короче говоря;
+	mujun -- противоречие;
+	...darake -- покрытый, измазанный чем-л.;
+	But saying we mustn't do this and that just surrounds us with contradictions.
+
+ピッタリと揃うその瞬間に
+pittari to sorou sono shunkan ni
+	pittari -- идеальный, совершенный
+	sorou -- 1) быть полным, быть подобранным (о комплекте чего-л.); そろった ; 2) собраться полностью (о намеченном числе лиц); そろって ; 3) быть сходным в чём-л.; подходить к чему-л., гармонировать с чем-л.;
+	shunkan -- мгновение, момент, миг; ～に в один момент, вмиг, мгновенно;
+	Perfectly aligned with that moment is a,
+ピッタリと揃う嘘の瞬間
+pittari to sorou uso no shunkan
+	Perfectly aligned moment of lies.
+
+さあ、扉を開けて冒険を今始めよう
+saa, tobira o akete bouken o ima hajimeyou
+	Come, open the door and let's begin this journey!
+ねえ、正しい未来へ続く答え見つけよう
+nee, tadashii mirai e tsudzuku kotae mitsukeyou
+	Hey, let's find the answer that leads to a decent future.
+目を背けたままで　やり過ごした倒壊も
+me o somuketa mama de yarisugoshita toukai mo
+	somukeru -- отворачивать;
+	yarisugiru -- делать что-л. сверх меры (излишне); заходить слишком далеко; давать слишком много; передать; переложить (слишком много выпить); превысить свои права (полномочия).
+	yarisugosu -- 2) упускать, пропускать.
+	toukai -- 1) разрушение;
+	Discovering the destruction we kept our eyes averted from to survive,
+耳をふさいだまま　仕舞い込んだ過ちもね
+mimi o fusaida mama shimaikonda ayamachi mo ne
+	fusagu -- 1) закрывать (рот, глаза); преграждать; затыкать (отверстие); забивать, заделывать (пробоину); запружать; заслонять;
+	shimaikomu -- прятать (внутрь чего-л.); убирать.
+	ayamachi -- оплошность, промах, ошибка;
+	And the mistakes we made, keeping our ears covered to stow them away...
+
+もう二度と間違わないように
+mou nido to machigawanai you ni
+	...so that we'll never make the same mistakes again.
