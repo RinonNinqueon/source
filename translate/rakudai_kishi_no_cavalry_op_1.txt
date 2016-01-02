@@ -17,9 +17,9 @@ kono basho ni kizamu nowa It's My Soul! Yeah!
 darenimo furesasenai Identity
 	fureru -- 1) касаться, трогать; дотрагиваться; задевать; 2) упоминать, касаться; (+ побудительный залог)
 	These identities we won't allow anyone to touch,
-表明してく鼓動
-hyoumei shiteku kodou
-	hyoumei -- выражение, выявление;
+共鳴してく鼓動
+kyoumei shiteku kodou
+	kyoumei -- 1) резонанс; ～する резонировать; 2) сочувствие; отклик; ～する сочувствовать чему-л., откликаться на что-л.; разделять (мнение);
 	kodou -- биение (сердца); пульсация;
 	Are declared by the beating of our hearts;
 運命はこの一瞬で決まるだろう
@@ -29,15 +29,17 @@ unmei wa kono isshun de kimaru darou
 	kimaru -- 1) решаться; быть решённым; быть установленным (определённым); быть законченным; 2): …に決まっている (в конце предложения) после и непременно быть каким-л., чем-л.; после непременно (совершиться, произойти), быть предопределённым;
 	Our fate will be decided in this very instant!
 
-覚悟笑えば良い　怒り高ぶれば良い
-kakugo waraeba ii okori takabureba ii
+“覚悟”を嘲笑えばいい　奢り高ぶればいい
+"kakugo" o azawaraeba ii ogori takabureba ii
+//覚悟笑えば良い　怒り高ぶれば良い
+//kakugo waraeba ii okori takabureba ii
 	kakugo -- 1) готовность, решимость; 2) познание, осознание;
-	warau -- смеяться; улыбаться (+ условное)
-	okoru -- сердиться, злиться; горячиться;
+	azawarau -- насмехаться (+ условное)
+	ogoru -- 1) роскошествовать, жить роскошно, вести роскошный образ жизни; 2) угощать; приглашать (кого-л. в театр, );
 	takaburu -- быть чванным (спесивым); задаваться; важничать; (+ условное)
 	They can laugh at our resolve, even be indignant if they wish;
-迷い踏み潰し Let's go again!
-mayoi fumitsubushi Let's go again!
+迷い踏み潰し　Let's go ahead！〜Let's go ahead,Right now〜
+mayoi fumitsubushi Let's go ahead! ~Let's go ahead, Right now~
 	mayoi -- 1) замешательство; недоумение; колебание, нерешительность; 2) заблуждение; иллюзия;
 	fumitsubusu -- растаптывать.
 	Stamping out our hesitation, let's go ahead!
@@ -58,6 +60,92 @@ zenryoku de jibun tsukaitsukuse
 	jibun -- сам, я
 	使い果す -- tsukaihatasu -- использовать [до конца] что-л.; истратить полностью;
 	So expend every last bit of your yourself,
+----------------
+土壇場のClimax：
+dotanba no Climax:
+	dotanba -- место казни; эшафот; критический (последний) момент;
+	A climax in the final moment:
+
+It's time to take a top!
+
+打ち消してみせるさイメージを　進化に深化　重ね
+uchikeshitemiseru sa imeeji o shinka ni shinka kasane
+	uchikesu -- отрицать; опровергать;
+	イメージ -- image
+	shinka -- развитие, эволюция;
+	shinka -- углубляться, усугубляться.
+	kasaneru -- 1) складывать, класть (одно на другое); носить одно поверх другого (об одежде); 2) о повторном или длительном действии:
+	I'm gonna strike out the current state of imagination, deepening our evolutions bit by bit -
+この騎士道(みち)の軌跡は僕が作るのさ
+kono mich no kiseki wa boku ga tsukuru nosa
+	mich (kishidou) -- рыцарство.
+	kiseki -- колея/пусть + отпечаток
+	I'm gonna lay down the tracks for this chivalrous path!
+
+本能が蠢くんだ　時に邪魔なセオリー
+honnou ga ugomekunda toki ni jama na seorii
+	honnou -- инстинкт;
+	ugomeku -- копошиться;
+	jama -- ～な препятствующий, мешающий; задерживающий; обременительный;
+	セオリー -- theory
+	My instincts are squirming with a theory that acts as an occasional hindrance;
+リミッター外して　Let's go ahead! ~Let's go ahead, Right now~
+rimittaa hazushite Let's go ahead! ~Let's go ahead, Right now~
+	リミッター -- limiter
+	hazusu -- 1) снимать (что-л. надетое, прикреплённое); откреплять; отцеплять; разъединять; отстёгивать, расстёгивать; распускать; 2) упускать что-л.; уклоняться от чего-л.; 3) непроизвольно мочиться, ходить под себя.
+	Taking off our limiters, 
+
+だから今打ち破るのさ
+dakara ima uchiyaburu nosa
+	yaburu -- 1) разбивать, ломать; рвать; разрушать; 2) прорывать (фронт); прорываться (через заграждение); вламываться (в ворота); 3) нарушать (правила, закон, обещание; тишину, покой); 4) (敗る) разбивать, бить (неприятеля); 5) расстраивать, срывать (чьи-л. планы); проваливать (чьё-л. предложение, начинание).
+	'Cause we're gonna break on through -
+そう、未来を拒む厚いドアを
+sou, mirai o kobamu atsui doa o
+	kobamu -- отклонять, отвергать что-л., отказываться от чего-л.; отказывать в чём-л.;
+	atsui -- 1) толстый (о предметах);
+	Yes, through that thick door that rejects our future!
+起死回生　目の前のチャンスを　見逃すわけがないから
+kishikaisei me no mae no chansu o minogasu wake ga nai kara
+	kishikaisei -- оживление, воскрешение из мёртвых;
+	minogasu -- 1) просмотреть; упустить из виду; не заметить; 2) не обращать внимания; обходить молчанием; смотреть сквозь пальцы, закрывать глаза на что-л.; делать поблажку; 3) не арестовывать, оставлять на свободе.
+	We'll make our comeback, 'cause there's no way we can miss the chance before our eyes!
+放たれた光の中で　魂の熱を上げてくのさ
+hanatareta hikari no naka de tamashii no netsu o ageteku nosa
+	hanaru -- 1) бросать, кидать куда-л., в кого-л.; 2) оставлять, забрасывать; выбрасывать;
+	tamashii -- дух/душа
+	netsu -- тепло/пыл
+	Amid the light that we emit, the heat of our souls rises higher and higher -
+最高の敵(ライバル)と向き合った　背水のClimax
+saikou no raibaru to mukiatta haisui no Climax
+	saikou -- максимум;
+	raibaru -- 1) враг, противник; 2) конкурент; соперник; партнёр, противник (в игре); 3) мщение;
+	mukaiau -- находиться напротив;
+	haisui : 背水の陣/ジン/を布く отрезать себе путь к отступлению (расположить позиции, имея позади себя реку).
+	Taking a stand against our most powerful rival in a climax with no escape.
+It's time to take a top
+
+生きてる証さ Let's go ahead!
+ikiteru akashi sa Let's go ahead!
+	akashi -- доказательство, свидетельские показания;
+	It's our proof that we're alive, so let's go ahead!
+
+だから今打ち破るのさ
+dakara ima uchiyaburu nosa
+	yaburu -- 1) разбивать, ломать; рвать; разрушать; 2) прорывать (фронт); прорываться (через заграждение); вламываться (в ворота); 3) нарушать (правила, закон, обещание; тишину, покой); 4) (敗る) разбивать, бить (неприятеля); 5) расстраивать, срывать (чьи-л. планы); проваливать (чьё-л. предложение, начинание).
+	'Cause we're gonna break on through -
+そう、明日を塞ぐ重いドアを
+sou, ashita o fusagu omoi doa o
+	fusagu -- 1) закрывать (рот, глаза); преграждать; затыкать (отверстие); забивать, заделывать (пробоину); запружать; заслонять; 2) заполнить (время, вакансию); занимать (место);
+	omoi -- 1) тяжёлый (по весу); тяжёлый, тяжкий (о болезни, о наказании, об ответственности, о преступлении); 2) важный, серьёзный;
+	ドア -- door
+	Yes, through that heavy door obstructing our tomorrow
+
+最弱(さいきょう)の自分使い尽くせ
+saikyou no jibun tsukaitsukuse
+	saikyou -- сильнейший
+	使い果す -- tsukaihatasu -- использовать [до конца] что-л.; истратить полностью;
+	So expend your strongest and weakest selves
+
 研ぎ澄まされた心で
 togisumasareta kokoro de
 	togisumasu -- 1) оттачивать; 2) начищать до блеска; отшлифовывать, полировать. (+ пассивный залог)
@@ -83,4 +171,4 @@ dotanba no Climax:
 	dotanba -- место казни; эшафот; критический (последний) момент;
 	A climax in the final moment:
 
-It's time to take our toll!
+It's time to take a top!
