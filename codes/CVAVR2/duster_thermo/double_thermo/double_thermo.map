@@ -1,0 +1,22 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+__ds18b20_scratch_pad                                             0080h        9
+ds1820_rom_codes                                                  0089h       18
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+ds1820_devices                                                    R3           1
+temp                                                              R4,R5        2
+t_old                                                             R6,R7        2
+term                                                              GPIOR0.0  1bit
+pause                                                             GPIOR0.1  1bit
+minus                                                             GPIOR0.2  1bit
+out                                                               R2           1
+i                                                                 R9           1
+j                                                                 R8           1

@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:48EDA44A
+NODE:M LEVEL:0 LINE:15 "COMPILERS_H"
+NODE:I LEVEL:0 LINE:17 "C:\cvavr2\inc\io.h"
+NODE:I LEVEL:0 LINE:18 "C:\cvavr2\inc\delay.h"
+NODE:M LEVEL:0 LINE:20 "__save_interrupt"
+NODE:M LEVEL:0 LINE:21 "__restore_interrupt"
+NODE:M LEVEL:0 LINE:22 "__disable_interrupt"
+NODE:M LEVEL:0 LINE:23 "__enable_interrupt"
+NODE:M LEVEL:0 LINE:24 "__delay_cycles"

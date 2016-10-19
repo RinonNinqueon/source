@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"double_thermo.c" LINE:210
+ds18b20_temperature1 DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"..\..\lib\ds18b20_cli.lib" LINE:98
+ds18b20_read_spd DSTACK_USAGE:3 DSTACK_LEVEL:8 FILE:"..\..\lib\ds18b20_cli.lib" LINE:49
+ds18b20_select DSTACK_USAGE:2 DSTACK_LEVEL:10 FILE:"..\..\lib\ds18b20_cli.lib" LINE:18
+timer0_ovf_isr DSTACK_USAGE:12 DSTACK_LEVEL:22 FILE:"double_thermo.c" LINE:121
+shift_out DSTACK_USAGE:1 DSTACK_LEVEL:23 FILE:"double_thermo.c" LINE:98
